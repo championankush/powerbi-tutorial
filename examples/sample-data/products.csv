@@ -1,0 +1,42 @@
+ProductID,ProductName,Category,SubCategory,Brand,Cost,Price
+201,Laptop Pro,Electronics,Computers,TechCorp,100.00,150.00
+202,Smartphone X,Electronics,Phones,MobileTech,120.00,200.00
+203,Wireless Headphones,Electronics,Audio,SoundMax,50.00,75.00
+204,Tablet Air,Electronics,Tablets,TechCorp,80.00,120.00
+205,Gaming Console,Electronics,Gaming,GameTech,200.00,300.00
+206,Bluetooth Speaker,Electronics,Audio,SoundMax,60.00,90.00
+207,Smart Watch,Electronics,Wearables,TechCorp,120.00,180.00
+208,4K Monitor,Electronics,Displays,DisplayPro,150.00,250.00
+209,Wireless Mouse,Electronics,Accessories,TechCorp,100.00,160.00
+210,USB Drive,Electronics,Storage,DataTech,90.00,140.00
+211,Webcam HD,Electronics,Accessories,TechCorp,140.00,220.00
+212,Mechanical Keyboard,Electronics,Accessories,KeyTech,120.00,190.00
+213,Portable Charger,Electronics,Accessories,PowerTech,110.00,170.00
+214,VR Headset,Electronics,Gaming,GameTech,150.00,240.00
+215,Smart Home Hub,Electronics,IoT,SmartHome,130.00,200.00
+216,Dash Cam,Electronics,Automotive,CarTech,110.00,180.00
+217,Drone Pro,Electronics,Drones,DroneTech,160.00,260.00
+218,Action Camera,Electronics,Cameras,CamTech,130.00,210.00
+219,Smart Bulb Pack,Electronics,IoT,SmartHome,120.00,190.00
+220,Robot Vacuum,Electronics,Appliances,CleanTech,170.00,280.00
+221,Security Camera,Electronics,Security,SafeTech,140.00,220.00
+301,Cotton T-Shirt,Clothing,Shirts,FashionCo,15.00,25.00
+302,Denim Jeans,Clothing,Pants,FashionCo,30.00,50.00
+303,Winter Jacket,Clothing,Outerwear,FashionCo,80.00,120.00
+304,Running Shoes,Clothing,Footwear,SportCo,60.00,90.00
+305,Summer Dress,Clothing,Dresses,FashionCo,40.00,65.00
+306,Formal Shirt,Clothing,Shirts,FashionCo,35.00,55.00
+307,Leather Belt,Clothing,Accessories,FashionCo,20.00,35.00
+308,Winter Scarf,Clothing,Accessories,FashionCo,25.00,40.00
+309,Athletic Shorts,Clothing,Sportswear,SportCo,25.00,40.00
+310,Swimming Suit,Clothing,Swimwear,SportCo,30.00,50.00
+401,Programming Guide,Books,Technology,LearnPub,25.00,35.00
+402,Data Science Book,Books,Technology,LearnPub,30.00,45.00
+403,Business Strategy,Books,Business,BizPub,35.00,50.00
+404,Cooking Recipes,Books,Lifestyle,LifePub,20.00,30.00
+405,Fitness Guide,Books,Health,HealthPub,25.00,35.00
+406,Travel Guide,Books,Travel,TravelPub,15.00,25.00
+407,Novel Bestseller,Books,Fiction,FictionPub,20.00,30.00
+408,History Book,Books,Education,EduPub,30.00,45.00
+409,Art Collection,Books,Art,ArtPub,40.00,60.00
+410,Science Magazine,Books,Science,SciPub,10.00,15.00 
